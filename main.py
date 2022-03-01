@@ -7,3 +7,8 @@ def sayBye():
     print('Bye')
 
 sayBye()
+
+def sayHey():
+    print('Hey')
+
+sayHey()
